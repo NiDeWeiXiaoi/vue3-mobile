@@ -1,5 +1,6 @@
 :root {
 	--primary-color: #ff9854;
+	--van-calendar-popup-height: 100%;
 }
 
 body {
@@ -12,4 +13,8 @@ body {
 	height: 100vh;
 	background-color: #fff;
 	overflow-y: auto;
+}
+
+.bottom-gray-line {
+	border-bottom: 1px solid #f2f2f2;
 }
